@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Summer Collection in 2025</h1>
+            <h1>Summer Collection in 2026</h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 50% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
@@ -993,7 +993,7 @@
                     
                     <div class="deal-price">$999 <span class="deal-old-price">$1,199</span> <span class="deal-discount">-17%</span></div>
                     
-                    <p>Only <strong>12</strong> items left at this price!</p>
+                    <p>Only <strong>12</strong> items left at this price is!</p>
                     
                     <button class="btn btn-primary" style="padding: 12px 30px; margin-top: 20px;">Buy Now</button>
                 </div>
